@@ -1,3 +1,4 @@
+Patanin Kongsap
 # สัปดาห์ 1 — เว็บคืออะไร และคิดแบบ component (P1 Portfolio)
 
 ## เริ่มต้น (ทำในคาบคู่)
